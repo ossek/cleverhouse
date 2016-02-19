@@ -1,0 +1,23 @@
+{
+  "name": "cleverhouse",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "metalsmith": "~2.1.0"
+  },
+  "devDependencies": {
+    "handlebars": "^4.0.5",
+    "harmonize": "~1.4.4",
+    "metalsmith": "~2.1.0",
+    "metalsmith-debug": "0.0.2",
+    "metalsmith-in-place": "^1.4.3",
+    "metalsmith-layouts": "^1.5.4",
+    "metalsmith-markdown": "~0.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
